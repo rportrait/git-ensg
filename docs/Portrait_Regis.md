@@ -1,2 +1,2 @@
 La Rochelle
-![LR.png](images/LR.png)
+![LR.png](images/LR.jpg)
